@@ -1,9 +1,9 @@
 
 [![GitHub release](https://img.shields.io/badge/release-0.1.0-green.svg)](https://github.com/foreveronly/SubmitButton/raw/master/submitbutton/build/outputs/aar/submitbutton-release.aar)
-#自定义带进度圈的按钮 --- SubmitButton (kotlin)
+# 自定义带进度圈的按钮 --- SubmitButton (kotlin)
 ![Android](https://ws2.sinaimg.cn/large/006tNbRwly1fwscfx487hg30mi05ktow.gif)
 
-##使用方法
+## 使用方法
 1、在 gradle 里引用:
 
 `implementation 'com.chinnsenn.submitbutton:submitbutton:0.1.0'`
