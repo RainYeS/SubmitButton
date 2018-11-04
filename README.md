@@ -80,4 +80,5 @@
 
 此控件为还原 Dribble 上一个动效而制作
 ![](https://ws2.sinaimg.cn/large/006tNbRwly1fwscfvvrkgg30mi05kdsm.gif)
+-------
 因为没有具体参数，只能摸索的仿造，也是为了熟悉 kotlin，有许多不足之处，也欢迎PQ。
