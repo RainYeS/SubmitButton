@@ -1,5 +1,6 @@
-
+![build](https://img.shields.io/badge/build-success-blue.svg)
 [![GitHub release](https://img.shields.io/badge/release-0.1.0-green.svg)](https://github.com/foreveronly/SubmitButton/raw/master/submitbutton/build/outputs/aar/submitbutton-release.aar)
+![](https://img.shields.io/badge/language-kotlin-orange.svg)
 # 自定义带进度圈的按钮 --- SubmitButton (kotlin)
 ![Android](https://ws2.sinaimg.cn/large/006tNbRwly1fwscfx487hg30mi05ktow.gif)
 
@@ -80,5 +81,9 @@
 
 此控件为还原 Dribble 上一个动效而制作
 ![](https://ws2.sinaimg.cn/large/006tNbRwly1fwscfvvrkgg30mi05kdsm.gif)
+
+## 更新计划
+1、新增具体进度数字（确定进度状态下）
+
 -------
 因为没有具体参数，只能摸索的仿造，也是为了熟悉 kotlin，有许多不足之处，也欢迎PQ。
